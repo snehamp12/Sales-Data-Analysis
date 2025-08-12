@@ -1,0 +1,24 @@
+# Sales Data Analysis
+
+This project involves analyzing sales data using Microsoft Excel. It includes:
+
+- Data cleaning and preparation
+- Pivot table creation for summarization
+- Formulas like SUMIF for insights
+- Data visualization with charts
+
+## Files Included
+
+- `Sample_Sales_Data.xlsx`: The main Excel file containing raw data, pivot tables, and charts.
+
+## Tools Used
+
+- Microsoft Excel (Pivot Tables, Charts, Formulas)
+
+## Key Insights
+
+- Identified top-performing products
+- Analyzed monthly sales trends
+- Visualized data for better decision-making
+
+Feel free to explore the project and provide feedback!
