@@ -1,24 +1,24 @@
-# Sales Data Analysis
+# Sales Data Analysis using Excel
 
-This project involves analyzing sales data using Microsoft Excel. It includes:
+## Overview
+This project analyzes sales data to identify top-performing products, monthly sales trends, and overall sales growth using Microsoft Excel.
 
-- Data cleaning and preparation
-- Pivot table creation for summarization
-- Formulas like SUMIF for insights
-- Data visualization with charts
+## Features
+- Data analysis with Excel formulas like SUMIF, COUNTIF, and VLOOKUP
+- Creation of pivot tables to summarize and explore sales data
+- Dynamic dashboards and charts to visualize sales performance
+- Automated data summarization to improve reporting efficiency
 
-### Files Included
+## Files
+- `Sample_Sales_Data.xlsx`: Sample sales dataset used for analysis
+- `Sales_Analysis_Dashboard.xlsx`: Excel file containing pivot tables, formulas, and dashboard visualizations (if you created one)
 
-- `Sample_Sales_Data.xlsx`: The main Excel file containing raw data, pivot tables, and charts.
+## How to Use
+1. Open the Excel files.
+2. Explore the pivot tables and dashboards to understand sales trends.
+3. Modify or extend formulas as needed to analyze different data aspects.
 
-### Tools Used
-
-- Microsoft Excel (Pivot Tables, Charts, Formulas)
-
-### Key Insights
-
-- Identified top-performing products
-- Analyzed monthly sales trends
-- Visualized data for better decision-making
-
-Feel free to explore the project and provide feedback!
+## Skills Used
+- Excel formulas and functions
+- Pivot tables and charts
+- Data visualization techniques
