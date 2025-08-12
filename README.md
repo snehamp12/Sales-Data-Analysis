@@ -11,7 +11,6 @@ This project analyzes sales data to identify top-performing products, monthly sa
 
 ## Files
 - `Sample_Sales_Data.xlsx`: Sample sales dataset used for analysis
-- `Sales_Analysis_Dashboard.xlsx`: Excel file containing pivot tables, formulas, and dashboard visualizations (if you created one)
 
 ## How to Use
 1. Open the Excel files.
